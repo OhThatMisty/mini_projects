@@ -1,6 +1,7 @@
 # mini_projects
 
 Mini projects from Springboard course
+
 1.  
 2.  
 3.  
